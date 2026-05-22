@@ -23,5 +23,21 @@
   "mastery": [
     { "title": "The Art of Systems Engineering", "url": "https://youtu.be/EXAMPLE1" },
     { "title": "7-Figure Blueprint: The Masterclass", "url": "https://youtu.be/EXAMPLE2" }
-  ]
+  ],
+  "project": {
+    "name": "RichBumz",
+    "symbol": "RBUMZ",
+    "status": "Architecting",
+    "utility_tiers": {
+      "bronze": "Access to Public Router",
+      "silver": "Early Access to Automation Scripts",
+      "gold": "Direct Governance of Vault Vectors"
+    },
+    "lp_status": "Protocol Owned",
+    "metrics": {
+      "price_usd": "PENDING",
+      "holders": "PENDING",
+      "treasury_allocation": "0.15"
+    }
+  }
 }
