@@ -1,0 +1,23 @@
+
+"operators": [
+{ "title": "How to build a vehicle from scratch", "url": "https://youtu.be/SYbeHVI28mw" },
+{ "title": "Building a car from scratch v1", "url": "https://youtu.be/N9D5TPq479Q" },
+{ "title": "SBPP Sports Betting Blueprint", "url": "https://youtu.be/rvrqT2-58SY" },
+{ "title": "Apple Watch series 10 release video", "url": "https://youtube.com/shorts/qSm-nUQS-TE" },
+{ "title": "How to make money on YouTube with trading strategies", "url": "https://youtube.com/shorts/7cHwkkpdQGM" }
+],
+"mindset": [
+{ "title": "You Must Stop Ignoring Ai", "url": "https://youtu.be/0Uczzdy4os8" },
+{ "title": "Mindfulness Vibes // Overcoming Shadows", "url": "https://youtu.be/dnZAXghlm0c" },
+{ "title": "Discover king Solomon’s secret to true wealth", "url": "https://youtube.com/shorts/lwezbdLYOnU" },
+{ "title": "The journey from pain to power", "url": "https://youtu.be/bXYTNN1KcmY" },
+{ "title": "Money Myths & Biblical Truths", "url": "https://youtube.com/shorts/RaOCl6p5paw" }
+],
+"curiosity": [
+{ "title": "Anunnaki codex: An Overview of ancient civilization", "url": "https://youtu.be/T4K0G_355sc" },
+{ "title": "Real stories from Los Angeles Wildfires", "url": "https://youtube.com/shorts/pmciOQji3x8" },
+{ "title": "Why CEO Of UnitedHealth Become Target", "url": "https://youtube.com/shorts/pe5Ru385bBM" },
+{ "title": "Magellan voyage: A saga of adventures and wealth", "url": "https://youtube.com/shorts/9XfIg_GFXuU" },
+{ "title": "Jake Paul vs Mike Tyson breakout report", "url": "https://youtube.com/shorts/VWISAkTe3LA" }
+]
+}
